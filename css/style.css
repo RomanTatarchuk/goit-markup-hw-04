@@ -130,13 +130,13 @@ footer .logo span {
   align-items: center ;
   justify-content: center;
   display: flex;
-  border: 1px solid #ECECEC
+  border: 1px solid #ECECEC;
 }
 
 .hero {
   height: 600px;
   background: rgba(47, 48, 58, 0.4);
-  background-image: url("/image/hero.png");
+  background-image: url("./image/hero.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
